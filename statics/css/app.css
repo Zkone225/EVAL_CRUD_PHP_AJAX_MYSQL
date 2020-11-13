@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+.container #nav {
+  background-color: #0c5460;
+}
+
+/*#bouton {
+padding-left: 500px;
+}*/
+
+#btn-login:hover
+{
+  color:darkgreen;
+  border-style:outset;
+}
+
+#btn-login:active
+{
+  color:green;
+
+}
+#btn-register:hover
+{
+  color:darkgreen;
+  border-style:outset;
+}
+
+#btn-register:active
+{
+  color:green;
+
+}
+#corp{
+
+margin-top: 40px;
+}
+#cb{
+
+}
+#thx{
+  width:  70%;
+}
+#enregistrer{
+  margin-left: 130px;
+}
+
+
+
+
+
+
+
+
+

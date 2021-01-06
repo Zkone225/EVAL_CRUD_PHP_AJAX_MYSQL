@@ -48,7 +48,7 @@ if(isset($_POST['submit'])){
 
 
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -66,7 +66,7 @@ if(isset($_POST['submit'])){
 
     <div class="container">
         <nav id="nav" class="navbar navbar-expand-lg navbar-light ">
-            <img src="../statics/img/logo.jpg" >
+            <img src="../statics/img/logo1.jpg" >
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
